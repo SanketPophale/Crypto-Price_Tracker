@@ -1,0 +1,74 @@
+[ 
+ {
+    "id": "btc",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": 70000,
+    "percent_change_1h": -0.5,
+    "percent_change_24h": 1.2,
+    "percent_change_7d": 4.5,
+    "market_cap": 560000000000,
+    "volume_24h": 25000000000,
+    "circulatin_supply": 19000000,
+    "logo": "bitcoin-btc-logo.png",
+    "sparkline": ""
+ },
+
+ {
+    "id": "eth",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 1800,
+    "percent_change_1h": 0.6,
+    "percent_change_24h": 3.2,
+    "percent_change_7d": 13.68,
+    "market_cap": 217581279327,
+    "volume_24h": 23547469307,
+    "circulating_supply": 120710000,
+    "logo": "ethereum-eth-logo.png",
+    "sparkline": ""
+  },
+  {
+    "id": "usdt",
+    "name": "Tether",
+    "symbol": "USDT",
+    "price": 1.0,
+    "percent_change_1h": 0.0,
+    "percent_change_24h": 0.0,
+    "percent_change_7d": 0.04,
+    "market_cap": 145320022085,
+    "volume_24h": 92288882007,
+    "circulating_supply": 145270000000,
+    "logo": "tether-usdt-logo.png",
+    "sparkline": ""
+  },
+  {
+    "id": "xrp",
+    "name": "XRP",
+    "symbol": "XRP",
+    "price": 2.22,
+    "percent_change_1h": 0.46,
+    "percent_change_24h": 0.54,
+    "percent_change_7d": 6.18,
+    "market_cap": 130073814966,
+    "volume_24h": 5131481491,
+    "circulating_supply": 58390000000,
+    "logo": "xrp-xrp-logo.png",
+    "sparkline": ""
+  },
+  {
+    "id": "bnb",
+    "name": "BNB",
+    "symbol": "BNB",
+    "price": 606.65,
+    "percent_change_1h": 0.09,
+    "percent_change_24h": -1.2,
+    "percent_change_7d": 3.73,
+    "market_cap": 85471956947,
+    "volume_24h": 1874281784,
+    "circulating_supply": 140890000,
+    "logo": "bnb-bnb-logo.png",
+    "sparkline": ""
+  }
+
+]
